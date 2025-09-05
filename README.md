@@ -107,4 +107,3 @@ ArrowShapeWidget(
 
 - **Version**: Provides a dedicated section where users can easily reference the recommended version to use in their `pubspec.yaml`.
 
-Including this section makes your README.md more informative and user-friendly, ensuring that developers understand how to integrate and stay updated with the latest version of your `shaped_widget` package.
